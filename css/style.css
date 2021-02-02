@@ -3,9 +3,25 @@ body
    color: #333333;
    text-align: center;
    font-family: "Arial";
-   font-size: 16px;
+   font-size: 17px;
    margin: 0;
    padding: 0;
+}
+#cabecera
+{
+ background-color: rgb(26, 54, 218);
+ box-shadow: 0px 2px 20px 0px rgba(0,0,0,0);
+ color: white;
+ font-weight: bold;
+ margin: 0;
+ padding: 0px 5cm;
+ font-size: 0.5cm;
+}
+#cabecera #tagline
+{
+ padding: 0,0,0,1cm;
+ font-weight: normal;
+ font-size: 0.8cm;
 }
 #containes
 {
@@ -17,6 +33,7 @@ body
 }
 #containes h1
 {
-  font-size: 20px;
+  font-size: 25px;
 
 }
+
