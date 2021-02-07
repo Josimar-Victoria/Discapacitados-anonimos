@@ -8,7 +8,6 @@ body
    margin: 0;
    padding: 0;
 }
-
 #cabecera
 {
  background-color: rgb(26, 54, 218);
@@ -21,22 +20,15 @@ body
 }
 #cabecera #logo
 {
-  width: 40px;
+  width: 50px;
   vertical-align: middle;
 
-}
-#cabecera #taglin
-{
-  padding: 0,0,0,1cm;
-  font-style: oblique;
-  font-stretch: semi-condensed;
 }
 #cabecera #tagline
 {
  padding: 0,0,0,1cm;
- font-style: oblique;
+ font-weight: normal;
  font-size: 0.8cm;
- font-weight: bold;
 }
 #containes
 {
@@ -50,33 +42,6 @@ body
 {
   font-size: 25px;
 
-}
-#icon__menu{
- display:block ;
- width: 40px;
- height:40px;
- font-family: 30px;
- background: blue;
- color: whitesmoke;
- text-align: center;
- line-height: 50px;
- border-radius: 5px;
- margin-left: auto;
- cursor:pointer;
-
-}
-#navegador{
-  position:absolute;
-  top: 60px;
-  left: -100%;
-  width: 100%;
-  transition: 0,5ms;
-
-}
-#menu{
-  list-style: armenian;
-  padding: 2;
-  margin: 0%;
 }
 
 

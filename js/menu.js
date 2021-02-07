@@ -1,1 +1,0 @@
-ao estas chico que onda")
