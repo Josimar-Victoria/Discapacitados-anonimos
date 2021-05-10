@@ -1,5 +1,7 @@
 # Tu blog de confianza
 
+<img width="795" alt="Captura de Pantalla 2020-01-31 a la(s) 8 32 08 p  m" src="https://github.com/Josimar-Victoria/Discapacitados-anonimos/blob/main/alex-loup-aX_ljOOyWJY-unsplash.jpg?raw=true">
+
 Un blog increible sobre el tema de las personas com movilida reducidad (discapacitados) este blog da lo mejor para ayudar mentalmente y fisicamente alas personas con cualquier tipo de ("discapacida")
 
 las persona aveses somos muy incomprendibles y no queremos darnos cuenta
